@@ -1,6 +1,7 @@
 ## Hi, I am Shruti Dube👋
 
-Computer science (Cyber Security) student at SRMIST. Frontend developer focused on web development, UI/UX design, and building creative web experiences.
+I'm a Computer Science (Cyber Security) undergrad at SRMIST, building web interfaces and increasingly drawn to where privacy, security, and AI
+intersect. I like shipping things people can actually click on like browser extensions, live web apps, hackathon prototypes.
 
 ## 🌐 Socials:
 
