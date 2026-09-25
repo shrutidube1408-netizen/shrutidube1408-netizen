@@ -36,9 +36,23 @@ intersect. I like shipping things people can actually click on like browser exte
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📊 GitHub Stats:
-
-![Metrics](https://github.com/shrutidube1408-netizen/shrutidube1408-netizen/blob/main/github-metrics.svg)
+### 📊 GitHub Stats
+ 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutidube1408-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutidube1408-netizen&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutidube1408-netizen&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=shrutidube1408-netizen&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</div>
+> **Note on stats accuracy:** to have private contributions counted above, enable *GitHub → Settings → Profile → "Include private contributions on my profile"*. The `count_private=true` and `include_all_commits=true` params above are already set to pull in as much real activity as GitHub's API allows.
+ 
+---
+ 
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=shrutidube1408-netizen&color=blue&style=flat-square)
+ 
+</div>
+ 
 
 ## 🔥 GitHub Analytics:
 
