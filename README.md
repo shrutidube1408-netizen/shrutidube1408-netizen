@@ -1,16 +1,16 @@
 ## Hi, I am Shruti Dube👋
- 
+
 I'm a Computer Science (Cyber Security) undergrad at SRMIST, building web interfaces and increasingly drawn to where privacy, security, and AI
 intersect. I like shipping things people can actually click on like browser extensions, live web apps, hackathon prototypes.
- 
+
 ## 🌐 Socials:
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-dube-532963238/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutidube1408-netizen)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.dube1408@gmail.com)
- 
+
 ## 💻 Tech Stack:
- 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -35,20 +35,25 @@ intersect. I like shipping things people can actually click on like browser exte
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
- 
-## 📊 GitHub Stats
+
+### 📊 GitHub Stats
  
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutidube1408-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutidube1408-netizen&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com/?user=shrutidube1408-netizen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=shrutidube1408-netizen&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutidube1408-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutidube1408-netizen&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutidube1408-netizen&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=shrutidube1408-netizen&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </div>
-> **On accuracy:** enable *GitHub → Settings → Profile → "Include private contributions on my profile"* to have private commits counted above.
->
-> **On loading:** these cards are pulled from free, shared, third-party servers (not something broken in this file). They occasionally fail to load or show stale-looking data due to rate limits or server downtime on their end — usually fixed by refreshing the page a minute later. This is a known, widely-reported issue with these services, not specific to this profile.
+> **Note on stats accuracy:** to have private contributions counted above, enable *GitHub → Settings → Profile → "Include private contributions on my profile"*. The `count_private=true` and `include_all_commits=true` params above are already set to pull in as much real activity as GitHub's API allows.
+ 
+---
  
 <div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=shrutidube1408-netizen&color=blue&style=flat-square)
  
 </div>
+ 
+
+## 🔥 GitHub Analytics:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shrutidube1408-netizen&theme=tokyonight&hide_border=true)
