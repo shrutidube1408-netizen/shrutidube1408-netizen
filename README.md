@@ -1,59 +1,99 @@
-## Hi, I am Shruti Dube👋
-
-I'm a Computer Science (Cyber Security) undergrad at SRMIST, building web interfaces and increasingly drawn to where privacy, security, and AI
-intersect. I like shipping things people can actually click on like browser extensions, live web apps, hackathon prototypes.
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-dube-532963238/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutidube1408-netizen)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.dube1408@gmail.com)
-
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### 📊 GitHub Stats
- 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutidube1408-netizen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutidube1408-netizen&layout=compact&theme=tokyonight&cache_seconds=1800" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutidube1408-netizen&theme=tokyonight" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=shrutidube1408-netizen&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+
+[![Animated header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,18,24,30,35&text=SHRUTI%20DUBE&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20%7C%20FRONTEND%20%7C%20AI%20%7C%20BUILDER&descAlignY=63&descSize=16)](https://github.com/shrutidube1408-netizen)
+
+[![Animated typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=7CFFB2&center=true&vCenter=true&width=900&lines=CS+undergrad+%C3%97+Frontend+%C3%97+AI+builder;Shipping+real+products%2C+not+just+projects;Hackathon+winner+%40+IIT+Mandi;BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+REPEAT)](https://github.com/shrutidube1408-netizen)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutidube1408-netizen)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-dube-532963238/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sd5633@srmist.edu.in)
+
 </div>
-> **Note on stats accuracy:** to have private contributions counted above, enable *GitHub → Settings → Profile → "Include private contributions on my profile"*. The `count_private=true` and `include_all_commits=true` params above are already set to pull in as much real activity as GitHub's API allows.
- 
+
 ---
- 
+
+# 🧠 `WHO_AM_I()`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   NAME       →  SHRUTI DUBE                                     │
+│   ROLE       →  CS UNDERGRAD × FRONTEND × AI BUILDER            │
+│   MODE       →  BUILD / BREAK / LEARN / SHIP                    │
+│   INTERESTS  →  AI · WEB · IOT · CYBERSECURITY · PRODUCTS       │
+│   CURRENT    →  LEADING TECH @ HACKERRANK CAMPUS CREW SRMIST    │
+│                                                                 │
+│   STATUS     →  ██████████████████░░░░░░░  LEARNING + BUILDING  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+I'm a Computer Science (Cyber Security) student at **SRMIST** who likes turning ideas into things people can actually open and use.
+
+I've built a real-time **smart home digital twin** at Renault Nissan Technology & Business Centre India, a **Chrome extension** that reads privacy policies for you, and a **gamified adaptive AI tutor** that won the hackathon at **IIT Mandi**.
+
+`IDEA → PROTOTYPE → CODE → BUGS → DEBUG → DEPLOY → ITERATE`
+
+---
+
+# ⚡ `CURRENTLY_IN_THE_LAB`
+
+| 🔭 Building | 🧠 Learning | 🤝 Open To |
+| --- | --- | --- |
+| Frontend products, real-time dashboards & AI-powered tools | Gen AI, system design, DSA & cloud | Internships, hackathons, open source & ambitious builds |
+
+---
+
+# 🚀 `TOP_PROJECTS`
+
+| 🚀 Project | 📝 What it does | 🧩 Stack |
+| --- | --- | --- |
+| **[RNTBCI Smart Digital Home Twin](https://rntbci-project.vercel.app)** | Real-time digital twin of a smart home: monitoring and control of IoT devices, energy, EV charging and solar, with 3D visualisation | `React` `REST APIs` `IoT` |
+| **[PryLens](https://github.com/shrutidube1408-netizen?tab=repositories)** | Chrome extension that analyzes website privacy policies in real time and turns legal text into colour-coded risk scores | `Manifest V3` `JavaScript` `Node.js` |
+| **[Gamified AI Tutor](https://github.com/shrutidube1408-netizen?tab=repositories)** 🏆 | Adaptive tutor with Misconception Memory, a teacher dashboard and a gamified student dashboard. IIT Mandi hackathon winner | `Python` `JavaScript` `TypeScript` |
+| **[Fragrance Finder](https://github.com/shrutidube1408-netizen?tab=repositories)** | Live quiz-based web app that recommends fragrances from your answers, built at Svara | `Web App` `Frontend` |
+
+---
+
+# 🧬 `TECH_LOADOUT`
+
+[![Skills](https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,fastapi,html,css,git,github,vercel,postman)](https://skillicons.dev)
+
+---
+
+# 📊 `DEVELOPER_TELEMETRY`
+
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=shrutidube1408-netizen&color=blue&style=flat-square)
- 
+
+[![GitHub contribution streak](https://github-readme-streak-stats-eight.vercel.app/?user=shrutidube1408-netizen&theme=tokyonight&hide_border=true)](https://github.com/shrutidube1408-netizen)
+
+[![GitHub profile activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrutidube1408-netizen&theme=tokyonight)](https://github.com/shrutidube1408-netizen)
+
+| [![Top Languages by Repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shrutidube1408-netizen&theme=tokyonight)](https://github.com/shrutidube1408-netizen) | [![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shrutidube1408-netizen&theme=tokyonight)](https://github.com/shrutidube1408-netizen) |
+| --- | --- |
+
 </div>
- 
 
-## 🔥 GitHub Analytics:
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shrutidube1408-netizen&theme=tokyonight&hide_border=true)
+# 🌐 `ESTABLISH_CONNECTION`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-dube-532963238/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sd5633@srmist.edu.in)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutidube1408-netizen)
+
+[![Connection animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=600&color=7CFFB2&center=true&vCenter=true&width=780&lines=Got+an+idea%3F;Got+a+hackathon+team+to+fill%3F;Want+to+build+something+together%3F;open_connection%28%29%3B)](mailto:sd5633@srmist.edu.in)
+
+</div>
+
+---
+
+[![Animated footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,18,24,30,35&section=footer&animation=twinkling)](https://github.com/shrutidube1408-netizen)
+
+<div align="center">
+
+**BUILD → BREAK → LEARN → SHIP → REPEAT**
+
+</div>
